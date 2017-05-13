@@ -1,0 +1,15 @@
+Partlist exported from /Users/haileybischoff/Documents/eagle/Doorbell/Power Supply/Power Supply.sch at 9/29/16 1:27 PM
+
+Part Value            Device           Package          Description DIGIKEY#           MANF               MANF#         
+BR1                   BR               DFS                          641-1425-1-ND      Comchip Technology DF206ST-G     
+C1   1500uF           CAP_POLJ16       J16_CAP                                                                          
+C2   100uF            CAP_POLF         F_CAP                                                                            
+C3   330uF            CAP_POLF         F_CAP                                                                            
+C4   1500uF           CAP_POLJ16       J16_CAP                                                                          
+D1                    SCHOTTKY_DIODE   SMD_DIODE                    1N5819HW-FDICT-ND  Diodes Inc         1N5819HW-7-F  
+IC3  TL2575HV-05IKTTR TL2575           TO-263-5                     296-21828-1-ND     Texas Instruments  TL2575-33IKTTR
+JP1                   PINHD-1X9        1X09             PIN HEADER                                                      
+L1   680 uH           DR125            DR125                        SRR1208-102KLCT-ND Bourns Inc.        SRR1208-102KL 
+LED1 GRN              LED0603          0603_LED                     516-2493-1-ND      Avago Technologies HSMG-C191     
+R1   680              RESISTOR0603     0603_RESISTOR                                                                    
+TB1  TERMINAL_BLOCK_2 TERMINAL_BLOCK_2 TERMINAL_BLOCK_2             277-2072-1-ND      Phoenix            1771091       
